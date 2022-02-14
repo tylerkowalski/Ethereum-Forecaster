@@ -5,4 +5,4 @@ The blue graph entails the training data while the orange is the output of the m
 ![plot](./images/train.png)
 
 The following graph is the predicted price of ETH in CAD until the end of February. The prediction starts from '450' on the x-axis.
-![plot](./images/predict.png)
+![plot](./images/predicted.png)
